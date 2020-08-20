@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3cc8c86-c1a1-431b-b6ff-9e09421ba614" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aYVlzTHQtCh5DxLTdTKHroe42U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="HasEqualSum" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cc8c86-c1a1-431b-b6ff-9e09421ba614" name="Default Changelist" comment="" />
+      <created>1586912668972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586912668972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1314" y="153" key="new project wizard" timestamp="1586913805254">
+      <screen x="0" y="23" width="3840" height="1057" />
+    </state>
+    <state x="1314" y="153" key="new project wizard/0.23.3840.1057/-1680.23.1680.1027@0.23.3840.1057" timestamp="1586913805254" />
+    <state x="1549" y="252" key="search.everywhere.popup" timestamp="1586913358837">
+      <screen x="0" y="23" width="3840" height="1057" />
+    </state>
+    <state x="1549" y="252" key="search.everywhere.popup/0.23.3840.1057/-1680.23.1680.1027@0.23.3840.1057" timestamp="1586913358837" />
+  </component>
+</project>
